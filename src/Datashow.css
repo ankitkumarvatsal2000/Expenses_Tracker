@@ -1,0 +1,17 @@
+.box{
+    display: flex;
+    width: 600px;
+    height: 40px;
+    border: 5px solid black;
+    margin: auto;
+    gap: 30px;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin-top: 14px;
+
+}
+
+p{
+    font-size: 15px;
+    color: brown;
+}
